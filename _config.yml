@@ -20,11 +20,13 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  HONE:
+  ABOUT: "aboutme"
+  PROJECTS:
+    - Face Clone:
+    - AAAAA:
+  PUBLICATIONS:
+  CONTACT: "https://insight.yonsei.ac.kr/"
 
 ################
 # --- Logo --- #
