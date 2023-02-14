@@ -103,7 +103,7 @@ excerpt_length: 50
 # 요약하는 길이
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: False
+feed_show_excerpt: True
 # 포스트 요약 여부 결정
 
 # Whether or not to show a list of tags below each post preview in the feed page
