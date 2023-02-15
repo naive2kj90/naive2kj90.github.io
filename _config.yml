@@ -23,7 +23,7 @@ navbar-links:
   HOME: "index"
   ABOUT: "aboutme"
   PROJECTS:
-    - Face Clone: "_project/face_clone"
+    - Face Clone: "project_face_clone"
     - Face Animation: "aboutme"
   PUBLICATIONS:
   CONTACT: "https://insight.yonsei.ac.kr/"
