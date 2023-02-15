@@ -10,7 +10,7 @@ Page about Face Clone.
 
 Our system
 
-![Studio](/assets/img/1_system.png){:width="50px"}
+![Studio](/assets/img/1_system.png){:width="60%"}
 
 our system flow
 
@@ -24,10 +24,10 @@ our system flow
 
 GUI step 1
 
-![Flow](/assets/img/4_interfacea.png)
+![Flow](/assets/img/4_interfacea.png){:width="60%"}
 
 GUI step 2
 
-![Flow](/assets/img/4_interfaceb.png)
+![Flow](/assets/img/4_interfaceb.png){:width="60%"}
 
 The user can save the result.
