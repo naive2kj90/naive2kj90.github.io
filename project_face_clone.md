@@ -6,7 +6,7 @@ subtitle: Real-time High-Quality 3-D Face Tracking System
 
 Page about Face Clone.
 
-## Camera System setup
+## System Design
 
 Our proposed system is designed as a two-stage work- flow. First, the deformable high-quality 3-D face scan is made from photos taken in the camera studio. Then, when the user moves their face or talks as they want, the 3-D face scan moves as save as the user in real-time.
 
