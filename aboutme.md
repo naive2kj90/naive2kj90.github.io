@@ -8,11 +8,26 @@ Page about Face Clone.
 
 ## Face Clone
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Our system
 
-What else do you need?
+![Studio](/assets/img/1_system.png)
 
-### My story
+our system flow
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![Flow](/assets/img/3_flow1.png)
+
+2
+
+![Flow](/assets/img/3_flow2.png)
+
+### GUI
+
+GUI step 1
+
+![Flow](/assets/img/4_interfacea.png)
+
+GUI step 2
+
+![Flow](/assets/img/4_interfaceb.png)
+
+The user can save the result.
