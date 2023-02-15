@@ -24,7 +24,7 @@ navbar-links:
   ABOUT: "aboutme"
   PROJECTS:
     - Face Clone: "_project/face_clone"
-    - Face Animation:
+    - Face Animation: "aboutme"
   PUBLICATIONS:
   CONTACT: "https://insight.yonsei.ac.kr/"
 
