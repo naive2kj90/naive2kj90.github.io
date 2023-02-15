@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Face Clone
-subtitle: Real-time High-Quality 3-D Face Tracking System
+subtitle: Real-time High-Quality Face Tracking System
 ---
 
 The main goal of our experiment is to show a real-time detailed 3-D face tracking system. The face tracking system consists of two big steps to consider. First, we have to make a deformable 3-D face scan. The quality of the face depends on what purpose the user wants to use it. Second, we have to track the face and deform the 3-D face scan from 1th step. The 3-D face, shown on the screen has to track the user’s face and deform in a few milliseconds to provide a real-time experience.
