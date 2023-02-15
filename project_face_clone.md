@@ -9,7 +9,7 @@ The main goal of our experiment is to show a real-time detailed 3-D face trackin
 
 ## System Design
 
-Our proposed system is designed as a two-stage work- flow. First, the deformable high-quality 3-D face scan is made from photos taken in the camera studio. Then, when the user moves their face or talks as they want, the 3-D face scan moves as save as the user in real-time.
+Our proposed system is designed as a two-stage workflow. First, the deformable high-quality 3-D face scan is made from photos taken in the camera studio. Then, when the user moves their face or talks as they want, the 3-D face scan moves as save as the user in real-time.
 {: .text-justify}
 
 ![Studio](/assets/img/1_system.png){:width="60%"}
