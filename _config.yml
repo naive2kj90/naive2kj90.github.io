@@ -26,7 +26,7 @@ navbar-links:
     - Face Clone: "project_face_clone"
     - Face Animation: "aboutme"
   PUBLICATIONS:
-  CONTACT: "https://insight.yonsei.ac.kr/"
+  CONTACT: "insight.yonsei.ac.kr/"
 
 ################
 # --- Logo --- #
