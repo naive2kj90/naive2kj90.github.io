@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-subtitle:
+title: 
+subtitle: 
 cover-img: /assets/img/main_img1_footer.png
 ---
 
