@@ -41,3 +41,11 @@ Upon completion of 3-D face generation and 3-D face landmark estimation, the res
 
 An interactive tool for user-customized rendering. The system automatically provides the result but the user can adjust the output through the in- terface. The user can wear some pre-defined accessories to the face. We provide glasses, tattoos, and hat options.
 {: .text-justify}
+
+### Result
+
+<iframe
+        width="100%" height="315" src="https://www.youtube.com/embed/aaCEkpZXNpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+
+Demo video (temp)
