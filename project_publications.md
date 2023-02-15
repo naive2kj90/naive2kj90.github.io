@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Publication
+subtitle: 
 ---
 
 Real-time High-Quality Face Tracking System
