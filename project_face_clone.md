@@ -19,7 +19,7 @@ Camera studio
 
 ![Flow](/assets/img/3_flow1.png){:width="60%"}
 
-The flow of 3-D face scan generation (for the 1st frame)
+The flow of deformable 3-D face scan generation (for the 1st frame)
 {: .text-justify}
 
 ![Flow](/assets/img/3_flow2.png){:width="60%"}
