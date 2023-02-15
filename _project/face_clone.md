@@ -10,7 +10,7 @@ Page about Face Clone.
 
 Our system
 
-![Studio](/assets/img/1_system.png){:width="60%"}
+![Studio](/assets/img/1_system.png){:width="50px"}
 
 our system flow
 
