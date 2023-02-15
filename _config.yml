@@ -20,7 +20,7 @@ author: Kyungjune Lee
 ###############################################
 
 navbar-links:
-  HOME:"index"
+  HOME: "index"
   ABOUT: "aboutme"
   PROJECTS:
     - Face Clone: "/_project/face_clone"
