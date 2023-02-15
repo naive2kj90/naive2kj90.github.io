@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Face Clone
-subtitle: Photo-realistic
+subtitle: Real-time High-Quality 3-D Face Tracking System
 ---
 
 Page about Face Clone.
