@@ -24,7 +24,7 @@ navbar-links:
   ABOUT: "aboutme"
   PROJECTS:
     - Face Clone: "project_face_clone"
-    - Face Animation: "aboutme"
+    - Face Temp: "index"
   PUBLICATIONS: "project_publications"
   CONTACT: "project_contact"
 
