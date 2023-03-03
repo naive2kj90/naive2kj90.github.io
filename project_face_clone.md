@@ -18,14 +18,8 @@ Our proposed system is designed as a two-stage workflow. First, the deformable h
 Camera studio
 {: .text-justify}
 
-![Flow](/assets/img/3_flow1.png){:width="400px"}
-
-The flow of deformable 3-D face scan generation (for the 1st frame)
-{: .text-justify}
-
-![Flow](/assets/img/3_flow2.png){:width="400px"}
-
-The flow of real-time face animation (for the 2nd and the rest frames)
+![Flow](/assets/img/3_flow.png){:width="400px"}
+The flow of deformable 3-D face scan generation (for the 1st frame) and the flow of real-time face tracking (for the 2nd and the rest frames)
 {: .text-justify}
 
 
