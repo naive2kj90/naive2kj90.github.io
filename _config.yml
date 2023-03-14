@@ -26,7 +26,7 @@ navbar-links:
     - Face Clone: "project_face_clone"
     - Face Temp: "index"
   # PUBLICATIONS: "project_publications"
-  # CONTACT: "project_contact"
+  CONTACT: "project_contact"
 
 ################
 # --- Logo --- #
