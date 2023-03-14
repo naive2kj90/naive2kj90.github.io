@@ -21,7 +21,7 @@ author: Kyungjune Lee
 
 navbar-links:
   HOME: "index"
-  ABOUT: "aboutme"
+  # ABOUT: "aboutme"
   PROJECTS:
     - Face Clone: "project_face_clone"
     - Face Temp: "index"
