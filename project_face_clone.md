@@ -8,14 +8,12 @@ The main goal of our experiment is to show a real-time detailed 3-D face trackin
 First, we have to make a deformable 3-D face scan from the 1st frame. Second, we have to track the face and deform the 3-D face scan for the 2nd and the rest frame. The 3-D face, shown on the screen has to track the user’s face and deform in a few milliseconds to provide a real-time experience.
 {: .text-justify}
 
-## System Design
 
-Our proposed system is designed as a two-stage workflow. First, the deformable high-quality 3-D face scan is made from photos taken in the camera studio. Then, when the user moves their face or talks as they want, the 3-D face scan moves as save as the user in real-time.
-{: .text-justify}
+## System Design
 
 ![Studio](/assets/img/1_studio.jpg){:width="400px"}
 
-Camera studio
+Our proposed system is designed as a two-stage workflow. First, the deformable high-quality 3-D face scan is made from photos taken in the camera studio. Then, when the user moves their face or talks as they want, the 3-D face scan moves as save as the user in real-time.
 {: .text-justify}
 
 ![Flow](/assets/img/3_flow.png){:width="400px"}
