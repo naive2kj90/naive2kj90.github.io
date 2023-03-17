@@ -13,40 +13,40 @@ First, we have to make a deformable 3-D face scan from the 1st frame. Second, we
 Our proposed system is designed as a two-stage workflow. First, the deformable high-quality 3-D face scan is made from photos taken in the camera studio. Then, when the user moves their face or talks as they want, the 3-D face scan moves as save as the user in real-time.
 {: .text-justify}
 
-![Studio](/assets/img/1_system.png){:width="400px"}
+![Studio](/assets/img/1_studio.jpg){:width="400px"}
 
 Camera studio
 {: .text-justify}
 
 ![Flow](/assets/img/3_flow.png){:width="400px"}
+
 The flow of deformable 3-D face scan generation (for the 1st frame) and the flow of real-time face tracking (for the 2nd and the rest frames)
 {: .text-justify}
 
 
 ### GUI Interface
 
-Our system aims to mirror facial movement with a photo- realistic face model. We provide our system through the in- terface consisting of the image panel, the face model panel, and the animation panel, controlling from the start to the end.
+![Flow](/assets/img/4_interface.png){:width="400px"}
+
+We provide our system through the interface, controlling it from the start to the end. The user can show their cloned 3-D face moving on the interface.
 {: .text-justify}
 
-![Flow](/assets/img/4_interfacea.png){:width="400px"}
+![Flow](/assets/img/4_interactive_asset.png){:width="400px"}
 
-Upon completion of 3-D face generation and 3-D face landmark estimation, the results are displayed to the user in the interface. The captured images and generated 3-D face remain visible until the user is satisfied with the result. Then, a scene featuring the user’s photo-realistic 3-D face, synchronized with the captured facial motion, is presented in real-time with exceptional quality by the rendering engine.
-{: .text-justify}
-
-![Flow](/assets/img/4_interfaceb.png){:width="400px"}
-
-An interactive tool for user-customized rendering. The system automatically provides the result but the user can adjust the output through the in- terface. The user can wear some pre-defined accessories to the face. We provide glasses, tattoos, and hat options.
+An interactive tool for user-customized rendering. The system automatically provides the result but the user can adjust the output through the interface. The user can wear some pre-defined accessories to the face. We provide glasses, tattoos, and hat options.
 {: .text-justify}
 
 
 ### Result
 
-Demo video on 3-D face deformation.
+![Flow](/assets/img/5_result.png){:width="400px"}
+
+Our system captures the user's face via surrounding cameras, then generates a detailed photo-realistic face scan that can be deformed in real-time without relying on face templates. Our final result is shown as above.
 {: .text-justify}
 
 <iframe
         width="100%" height="315" src="https://www.youtube.com/embed/aaCEkpZXNpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 
-Demo video (temp)
+This is the demo video on our proposed Face Clone system.
 {: .text-justify}
